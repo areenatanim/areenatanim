@@ -73,15 +73,7 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-### ✍️ Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="99%"/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-<h1 align="center">Hi 👋, I'm Arina 😎</h1>
-
-## 🎉 Greeting 🎉
-I'm a passionate Frontend Developer with expertise in building intuitive and user-friendly web applications. With solid experience in HTML, CSS, JavaScript,Python, Tailwind CSS,DaisyUI and modern frameworks like React, I specialize in crafting responsive, visually appealing interfaces that enhance user experiences.
-
-<hr/>
 
 
 
