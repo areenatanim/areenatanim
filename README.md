@@ -38,13 +38,7 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
-<div>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanC77&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmanC77&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
-</div>
-<div>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanC77&theme=tokyonight" alt="Profile details" width="100%" height="auto"></a>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AmanC77&theme=tokyonight&hide_border=false" width="100%" height="330px" alt="streak graph" />
